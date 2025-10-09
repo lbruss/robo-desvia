@@ -38,9 +38,14 @@ O primeiro experimento teve como foco entender **como inverter e controlar o sen
 ###  Materiais Utilizados
 <img width="1408" height="269" alt="Materiais Desafio" src="https://github.com/user-attachments/assets/dca90640-d231-4d86-8561-3242b71bbc5c" />
 
+### Robô BUG ver 2.0
+
+<img width="1172" height="603" alt="Captura de tela 2025-10-09 140914" src="https://github.com/user-attachments/assets/7a6976a0-87c5-4f69-b2bc-923021026c75" />
+
+**A imagem acima é uma versão corrigida do do Robô no Tinkercad**
 ---
 
-##  Etapa 1 – Montagem do Carrinho
+##  Etapa 1 – Montagem do Robô
 
 Durante a aula, recebemos kits contendo:
 
