@@ -17,7 +17,7 @@ Após a fase de simulação, foi construído um **robô utilizando materiais rec
 ---
 
 ## Autores
-Bruss Loza
-Daniel Vieira 
-João Vitor
-Ruan Anderson
+- Bruss Loza
+- Daniel Vieira 
+- João Vitor
+- Ruan Anderson
