@@ -6,7 +6,7 @@ Projeto de um robô (Nomeado como ProBot) que consegue desviar de obstáculos us
 # Projeto
 
 Este projeto reúne **experimentos e simulações** desenvolvidos com o uso do **Tinkercad**.
-- Link do projeto no TinkerCad: https://www.tinkercad.com/things/c2GnOyYcnS1-robo-bug-ver-20
+- Link do projeto no TinkerCad: [Projeto](https://www.tinkercad.com/things/c2GnOyYcnS1-robo-bug-ver-20)
 
 Após a fase de simulação, foi construído um **robô utilizando materiais recicláveis (sucata)**.
 
