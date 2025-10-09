@@ -16,10 +16,5 @@ Após a fase de simulação, foi construído um **robô utilizando materiais rec
 
 ---
 
- **Conclusão:**  
-> A simulação no **Tinkercad** demonstrou, de forma prática, como sensores e motores podem ser integrados para criar um robô autônomo simples, eficiente e educativo.
-
----
-
 ## Autor
 Bruss Loza
