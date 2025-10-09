@@ -12,7 +12,7 @@ Após a fase de simulação, foi construído um **robô utilizando materiais rec
 
 # Robô ProBot
 
-![](Bot-Desvia.png)
+![](roboprobot.png)
 
 ---
 
